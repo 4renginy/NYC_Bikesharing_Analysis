@@ -1,6 +1,6 @@
 # Module14-Bikesharing
 
-##Background;
+## Background;
 
 Last summer my friend Kate and I took a trip to New York City. We had have visited many monuments,parks, rode around the city, and talked to people it was a blast. After the trip when we looked back we realized that the bike trips contributed to that blast great deal. 
 
@@ -13,7 +13,7 @@ We are able to take much more pictures with more details.
 
 This gave us an idea why dont we do the same in our city Des Montes, Iowa.
 
-##Purpose;
+## Purpose;
 Starting a business great deal of challange by itself in addition to that something with no backround knowledge makes it harder. So we decided to collect data from Citibike bikeshare and analyse it (https://www.citibikenyc.com/system-data). As data point we choose August2019
 
 ##Tools and methods
