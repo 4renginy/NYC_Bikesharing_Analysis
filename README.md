@@ -49,8 +49,9 @@ Conclusion;
 
 We think we have the necessary data and story to answer all your questions. Knowing all those data point we can make sound decisions if we start the business. Please dont hesitate to ask any questions you may have.
 
+You can see the whole story at the following link.
 
-![]
+![Tableau_Public}(https://public.tableau.com/profile/ren5313#!/vizhome/CitiBikeChallange/NYCBikeShare)
 
 
 
