@@ -51,7 +51,7 @@ We think we have the necessary data and story to answer all your questions. Know
 
 You can see the whole story at the following link.
 
-![Tableau_Public}(https://public.tableau.com/profile/ren5313#!/vizhome/CitiBikeChallange/NYCBikeShare)
+![Tableau_Public_Story](https://public.tableau.com/profile/ren5313#!/vizhome/CitiBikeChallange/NYCBikeShare)
 
 
 
