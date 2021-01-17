@@ -31,7 +31,14 @@ Here are some of our findings.
 
 ![](https://github.com/4renginy/Module14-Bikesharing/blob/main/weekday_trips_by%20gender.PNG)
 
-3-
+3-Next we figured out what are the most popular start and stop locations so we make sure every station enough bike supply. Also we can use this kind of data which stations we need to focus on for improvment in subscriptions.
+
+![](https://github.com/4renginy/Module14-Bikesharing/blob/main/PopularEndStartPoints.PNG)
+
+4- We find out what are the check out times for all customers and by genders. This would help us 2 ways one the demographics of usage and scheduling bike maintanance. We can make sure the down hours are the hours we can maintain frequently used bikes.
+
+![](https://github.com/4renginy/Module14-Bikesharing/blob/main/Checkout_Times.PNG)
+
 
 
 
