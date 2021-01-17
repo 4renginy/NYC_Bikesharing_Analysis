@@ -29,7 +29,7 @@ Here are some of our findings.
 
 2-Then we wanted to figure out user profiles by gender and by rider type. This gave us the target porfiles. For example overall male riders doing more than twice the business then females and non-disclosed people. We can pormote more adds in women sport magazines.
 
-![}(https://github.com/4renginy/Module14-Bikesharing/blob/main/weekday_trips_by%20gender.PNG)
+![](https://github.com/4renginy/Module14-Bikesharing/blob/main/weekday_trips_by%20gender.PNG)
 
 3-
 
