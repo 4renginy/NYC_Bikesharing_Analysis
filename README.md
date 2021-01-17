@@ -16,7 +16,7 @@ This gave us an idea why dont we do the same in our city Des Montes, Iowa.
 ## Purpose;
 Starting a business great deal of challange by itself in addition to that something with no backround knowledge makes it harder. So we decided to collect data from Citibike bikeshare and analyse it (https://www.citibikenyc.com/system-data). As data point we choose August2019
 
-##Tools and methods
+## Tools and methods
 We have downloaded the data  as csv file however when we opened the file we realized that some data needs converstion, using python in JupyterNotebook we have changed the time format and uploaded the newly created csv file to Tableau.
 Tablau is a data analyssis and visualization tool that is widely used in todays professional world. It helps us to share our story clearly with non-technical stakeholders.
 Here are some of our findings.
@@ -24,28 +24,36 @@ Here are some of our findings.
 
 
 1- We started with figuring out how many rides there werein 2019 August;
-
+<br>
+<br>
 ![](https://github.com/4renginy/Module14-Bikesharing/blob/main/%23ofrides.PNG)
-
+<br>
+<br>
 2-Then we wanted to figure out user profiles by gender and by rider type. This gave us the target porfiles. For example overall male riders doing more than twice the business then females and non-disclosed people. We can pormote more adds in women sport magazines.
-
+<br>
+<br>
 ![](https://github.com/4renginy/Module14-Bikesharing/blob/main/weekday_trips_by%20gender.PNG)
-
+<br>
+<br>
 3-Next we figured out what are the most popular start and stop locations so we make sure every station enough bike supply. Also we can use this kind of data which stations we need to focus on for improvment in subscriptions.
-
+<br>
+<br>
 ![](https://github.com/4renginy/Module14-Bikesharing/blob/main/PopularEndStartPoints.PNG)
-
+<br>
+<br>
 4- We find out what are the check out times for all customers and by genders. This would help us 2 ways one the demographics of usage and scheduling bike maintanance. We can make sure the down hours are the hours we can maintain frequently used bikes.
 
 ![](https://github.com/4renginy/Module14-Bikesharing/blob/main/Checkout_Times.PNG)
-
+<br>
+<br>
 5-Last but not least we created the heatmaps of start and stop times of the users.
 
 ![](https://github.com/4renginy/Module14-Bikesharing/blob/main/trips_by%20gender.PNG)
 
 ![](https://github.com/4renginy/Module14-Bikesharing/blob/main/stoptimes_heatmap.PNG)
-
-##Conclusion;
+<br>
+<br>
+## Conclusion;
 
 We think we have the necessary data and story to answer all your questions. Knowing all those data point we can make sound decisions if we start the business. Please dont hesitate to ask any questions you may have.
 
