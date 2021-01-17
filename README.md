@@ -1,6 +1,6 @@
 # Module14-Bikesharing
 
-Background;
+##Background;
 
 Last summer my friend Kate and I took a trip to New York City. We had have visited many monuments,parks, rode around the city, and talked to people it was a blast. After the trip when we looked back we realized that the bike trips contributed to that blast great deal. 
 
@@ -13,10 +13,10 @@ We are able to take much more pictures with more details.
 
 This gave us an idea why dont we do the same in our city Des Montes, Iowa.
 
-Purpose;
+##Purpose;
 Starting a business great deal of challange by itself in addition to that something with no backround knowledge makes it harder. So we decided to collect data from Citibike bikeshare and analyse it (https://www.citibikenyc.com/system-data). As data point we choose August2019
 
-Tools and methods
+##Tools and methods
 We have downloaded the data  as csv file however when we opened the file we realized that some data needs converstion, using python in JupyterNotebook we have changed the time format and uploaded the newly created csv file to Tableau.
 Tablau is a data analyssis and visualization tool that is widely used in todays professional world. It helps us to share our story clearly with non-technical stakeholders.
 Here are some of our findings.
@@ -45,7 +45,7 @@ Here are some of our findings.
 
 ![](https://github.com/4renginy/Module14-Bikesharing/blob/main/stoptimes_heatmap.PNG)
 
-Conclusion;
+##Conclusion;
 
 We think we have the necessary data and story to answer all your questions. Knowing all those data point we can make sound decisions if we start the business. Please dont hesitate to ask any questions you may have.
 
