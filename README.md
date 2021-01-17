@@ -39,6 +39,19 @@ Here are some of our findings.
 
 ![](https://github.com/4renginy/Module14-Bikesharing/blob/main/Checkout_Times.PNG)
 
+5-Last but not least we created the heatmaps of start and stop times of the users.
+
+![](https://github.com/4renginy/Module14-Bikesharing/blob/main/trips_by%20gender.PNG)
+
+![](https://github.com/4renginy/Module14-Bikesharing/blob/main/stoptimes_heatmap.PNG)
+
+Conclusion;
+
+We think we have the necessary data and story to answer all your questions. Knowing all those data point we can make sound decisions if we start the business. Please dont hesitate to ask any questions you may have.
+
+
+![]
+
 
 
 
