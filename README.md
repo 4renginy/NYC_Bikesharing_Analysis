@@ -2,10 +2,9 @@
 
 
 You can see the whole story at the following link.
-<h1 ><font color="green">
+<h1 style="border:2px";>
 
 [Tableau_Public_Story](https://public.tableau.com/profile/ren5313#!/vizhome/CitiBike_Challange/NYCBikeShare)
-</font>
 
 </h1>
 
