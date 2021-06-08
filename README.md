@@ -1,5 +1,14 @@
 # Module14-Bikesharing
 
+
+You can see the whole story at the following link.
+<h1>
+
+[Tableau_Public_Story](https://public.tableau.com/profile/ren5313#!/vizhome/CitiBike_Challange/NYCBikeShare)
+
+</h1>
+
+
 ## Background;
 
 Last summer my friend Kate and I took a trip to New York City. We had have visited many monuments,parks, rode around the city, and talked to people it was a blast. After the trip when we looked back we realized that the bike trips contributed to that blast great deal. 
