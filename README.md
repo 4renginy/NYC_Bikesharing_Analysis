@@ -2,9 +2,10 @@
 
 
 You can see the whole story at the following link.
-<h1>
+<h1 ><font color="green">
 
 [Tableau_Public_Story](https://public.tableau.com/profile/ren5313#!/vizhome/CitiBike_Challange/NYCBikeShare)
+</font>
 
 </h1>
 
@@ -32,7 +33,7 @@ Here are some of our findings.
 
 
 
-1- We started with figuring out how many rides there werein 2019 August;
+1- We started with figuring out how many rides there were in 2019 August;
 <br>
 <br>
 ![](https://github.com/4renginy/Module14-Bikesharing/blob/main/%23ofrides.PNG)
