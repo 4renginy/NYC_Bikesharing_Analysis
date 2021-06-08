@@ -2,9 +2,9 @@
 
 
 You can see the whole story at the following link.
-<h1 style="border:2px";>
+<h1>
 
-[Tableau_Public_Story](https://public.tableau.com/profile/ren5313#!/vizhome/CitiBike_Challange/NYCBikeShare)
+[New York Bikesharing Project Link to Tabaleau](https://public.tableau.com/profile/ren5313#!/vizhome/CitiBike_Challange/NYCBikeShare)
 
 </h1>
 
