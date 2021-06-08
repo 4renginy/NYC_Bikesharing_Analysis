@@ -58,7 +58,7 @@ Here are some of our findings.
 We think we have the necessary data and story to answer all your questions. Knowing all those data point we can make sound decisions if we start the business. Please dont hesitate to ask any questions you may have.
 
 You can see the whole story at the following link.
-<h2 style= color:red;>
+<h2 style= color: "red";>
 
 [Tableau_Public_Story](https://public.tableau.com/profile/ren5313#!/vizhome/CitiBike_Challange/NYCBikeShare)
 
